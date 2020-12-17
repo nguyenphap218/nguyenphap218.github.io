@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/nguyenphap218/s-tem#readme",
   "dependencies": {
-    "node-sass": "^4.5.3"
+    "node-sass": "^4.14.1"
   }
 }
